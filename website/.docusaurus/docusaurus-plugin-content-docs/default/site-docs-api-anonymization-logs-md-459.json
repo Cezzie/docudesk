@@ -1,0 +1,28 @@
+{
+  "id": "api/anonymization-logs",
+  "title": "Anonymization Logs",
+  "description": "DocuDesk provides comprehensive anonymization capabilities to help you protect personal data in your documents. This page explains how anonymization logs work and how they can help you maintain GDPR compliance.",
+  "source": "@site/docs/api/anonymization-logs.md",
+  "sourceDirName": "api",
+  "slug": "/api/anonymization-logs",
+  "permalink": "/docs/api/anonymization-logs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/api/anonymization-logs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Anonymization Logs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Document Reports",
+    "permalink": "/docs/api/document-reports"
+  },
+  "next": {
+    "title": "Entity Recognition Integration",
+    "permalink": "/docs/api/presidio-integration"
+  }
+}

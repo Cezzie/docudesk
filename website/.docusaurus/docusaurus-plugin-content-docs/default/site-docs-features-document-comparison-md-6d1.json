@@ -1,0 +1,37 @@
+{
+  "id": "features/document-comparison",
+  "title": "Document Comparison",
+  "description": "Compare different versions of documents and track changes",
+  "source": "@site/docs/features/document-comparison.md",
+  "sourceDirName": "features",
+  "slug": "/features/document-comparison",
+  "permalink": "/docs/features/document-comparison",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/document-comparison.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "document-comparison",
+    "title": "Document Comparison",
+    "sidebar_label": "Document Comparison",
+    "sidebar_position": 7,
+    "description": "Compare different versions of documents and track changes",
+    "keywords": [
+      "comparison",
+      "diff",
+      "version control",
+      "track changes"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "External Integration",
+    "permalink": "/docs/features/external-integration"
+  },
+  "next": {
+    "title": "Document Classification",
+    "permalink": "/docs/features/document-classification"
+  }
+}

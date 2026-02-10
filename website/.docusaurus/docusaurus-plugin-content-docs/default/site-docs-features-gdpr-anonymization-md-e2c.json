@@ -1,0 +1,37 @@
+{
+  "id": "features/gdpr-anonymization",
+  "title": "GDPR Anonymization",
+  "description": "Automated document anonymization for GDPR compliance",
+  "source": "@site/docs/features/gdpr-anonymization.md",
+  "sourceDirName": "features",
+  "slug": "/features/gdpr-anonymization",
+  "permalink": "/docs/features/gdpr-anonymization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/gdpr-anonymization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "gdpr-anonymization",
+    "title": "GDPR Anonymization",
+    "sidebar_label": "GDPR Anonymization",
+    "sidebar_position": 3,
+    "description": "Automated document anonymization for GDPR compliance",
+    "keywords": [
+      "GDPR",
+      "privacy",
+      "anonymization",
+      "data protection"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Digital Signing",
+    "permalink": "/docs/features/digital-signing"
+  },
+  "next": {
+    "title": "WCAG Compliance",
+    "permalink": "/docs/features/wcag-compliance"
+  }
+}

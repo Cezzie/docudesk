@@ -1,0 +1,7 @@
+Incidentmelding
+
+Melder: Karim El Amrani
+BSN: 534294227
+Telefoon: +31 6 98765432
+E-mail: karim.elamrani@example.nl
+Notitie: Contact gehad met huisarts dr. Jansen op 2026-01-18.

@@ -1,0 +1,37 @@
+{
+  "id": "features/wcag-compliance",
+  "title": "WCAG Compliance",
+  "description": "Ensure document accessibility with WCAG guidelines",
+  "source": "@site/docs/features/wcag-compliance.md",
+  "sourceDirName": "features",
+  "slug": "/features/wcag-compliance",
+  "permalink": "/docs/features/wcag-compliance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/wcag-compliance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "wcag-compliance",
+    "title": "WCAG Compliance",
+    "sidebar_label": "WCAG Compliance",
+    "sidebar_position": 4,
+    "description": "Ensure document accessibility with WCAG guidelines",
+    "keywords": [
+      "accessibility",
+      "WCAG",
+      "PDF/UA",
+      "compliance"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GDPR Anonymization",
+    "permalink": "/docs/features/gdpr-anonymization"
+  },
+  "next": {
+    "title": "Batch Processing",
+    "permalink": "/docs/features/batch-processing"
+  }
+}

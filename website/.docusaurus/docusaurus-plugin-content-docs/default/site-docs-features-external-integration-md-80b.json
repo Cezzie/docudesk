@@ -1,0 +1,37 @@
+{
+  "id": "features/external-integration",
+  "title": "External Integration",
+  "description": "Seamlessly integrate with external systems while maintaining document sovereignty",
+  "source": "@site/docs/features/external-integration.md",
+  "sourceDirName": "features",
+  "slug": "/features/external-integration",
+  "permalink": "/docs/features/external-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/external-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "external-integration",
+    "title": "External Integration",
+    "sidebar_label": "External Integration",
+    "sidebar_position": 6,
+    "description": "Seamlessly integrate with external systems while maintaining document sovereignty",
+    "keywords": [
+      "integration",
+      "SharePoint",
+      "Office 365",
+      "collaboration"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Batch Processing",
+    "permalink": "/docs/features/batch-processing"
+  },
+  "next": {
+    "title": "Document Comparison",
+    "permalink": "/docs/features/document-comparison"
+  }
+}

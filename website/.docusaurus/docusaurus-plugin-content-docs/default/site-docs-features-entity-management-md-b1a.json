@@ -1,0 +1,24 @@
+{
+  "id": "features/entity-management",
+  "title": "Entity Management",
+  "description": "DocuDesk provides advanced entity management capabilities to handle detected sensitive information across multiple documents. This system ensures consistent handling of entities and provides detailed tracking and anonymization controls.",
+  "source": "@site/docs/features/entity-management.md",
+  "sourceDirName": "features",
+  "slug": "/features/entity-management",
+  "permalink": "/docs/features/entity-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/entity-management.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CI/CD Quality Checks",
+    "permalink": "/docs/features/ci-cd-quality-checks"
+  },
+  "next": {
+    "title": "DocuDesk Documentation",
+    "permalink": "/docs/intro"
+  }
+}

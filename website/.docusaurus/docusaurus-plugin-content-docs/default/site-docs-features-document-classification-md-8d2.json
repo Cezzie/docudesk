@@ -1,0 +1,37 @@
+{
+  "id": "features/document-classification",
+  "title": "Document Classification",
+  "description": "Automatically classify and organize documents based on content",
+  "source": "@site/docs/features/document-classification.md",
+  "sourceDirName": "features",
+  "slug": "/features/document-classification",
+  "permalink": "/docs/features/document-classification",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/document-classification.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "document-classification",
+    "title": "Document Classification",
+    "sidebar_label": "Document Classification",
+    "sidebar_position": 8,
+    "description": "Automatically classify and organize documents based on content",
+    "keywords": [
+      "classification",
+      "organization",
+      "AI",
+      "machine learning"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Document Comparison",
+    "permalink": "/docs/features/document-comparison"
+  },
+  "next": {
+    "title": "Text Extraction",
+    "permalink": "/docs/features/text-extraction"
+  }
+}

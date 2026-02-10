@@ -1,0 +1,28 @@
+{
+  "id": "api/presidio-integration",
+  "title": "Entity Recognition Integration",
+  "description": "DocuDesk integrates with entity recognition engines like Microsoft Presidio for powerful entity recognition and anonymization capabilities. This page explains how DocuDesk processes entity recognition output and transforms it into the AnonymizationLog object.",
+  "source": "@site/docs/api/presidio-integration.md",
+  "sourceDirName": "api",
+  "slug": "/api/presidio-integration",
+  "permalink": "/docs/api/presidio-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/api/presidio-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Entity Recognition Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Anonymization Logs",
+    "permalink": "/docs/api/anonymization-logs"
+  },
+  "next": {
+    "title": "Document Generation",
+    "permalink": "/docs/features/document-generation"
+  }
+}

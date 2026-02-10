@@ -1,0 +1,37 @@
+{
+  "id": "features/document-generation",
+  "title": "Document Generation",
+  "description": "Generate documents in multiple formats while keeping processing local",
+  "source": "@site/docs/features/document-generation.md",
+  "sourceDirName": "features",
+  "slug": "/features/document-generation",
+  "permalink": "/docs/features/document-generation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/document-generation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "document-generation",
+    "title": "Document Generation",
+    "sidebar_label": "Document Generation",
+    "sidebar_position": 1,
+    "description": "Generate documents in multiple formats while keeping processing local",
+    "keywords": [
+      "documents",
+      "templates",
+      "pdf",
+      "word"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Entity Recognition Integration",
+    "permalink": "/docs/api/presidio-integration"
+  },
+  "next": {
+    "title": "Digital Signing",
+    "permalink": "/docs/features/digital-signing"
+  }
+}

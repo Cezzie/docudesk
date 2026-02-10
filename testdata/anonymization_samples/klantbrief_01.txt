@@ -1,0 +1,8 @@
+Beste afdeling,
+
+Mijn naam is Sophie van Dijk en mijn BSN is 123456782.
+U kunt mij bereiken via sophie.vandijk@example.nl of 06-12345678.
+Adres: Laan van Meerdervoort 120, 2517 AN Den Haag.
+
+Met vriendelijke groet,
+Sophie van Dijk

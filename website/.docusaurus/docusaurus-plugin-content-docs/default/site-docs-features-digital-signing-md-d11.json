@@ -1,0 +1,37 @@
+{
+  "id": "features/digital-signing",
+  "title": "Digital Signing",
+  "description": "Secure digital document signing and verification within your infrastructure",
+  "source": "@site/docs/features/digital-signing.md",
+  "sourceDirName": "features",
+  "slug": "/features/digital-signing",
+  "permalink": "/docs/features/digital-signing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/digital-signing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "digital-signing",
+    "title": "Digital Signing",
+    "sidebar_label": "Digital Signing",
+    "sidebar_position": 2,
+    "description": "Secure digital document signing and verification within your infrastructure",
+    "keywords": [
+      "signing",
+      "verification",
+      "eIDAS",
+      "digital signature"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Document Generation",
+    "permalink": "/docs/features/document-generation"
+  },
+  "next": {
+    "title": "GDPR Anonymization",
+    "permalink": "/docs/features/gdpr-anonymization"
+  }
+}

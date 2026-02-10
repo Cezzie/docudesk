@@ -1,0 +1,24 @@
+{
+  "id": "features/backend",
+  "title": "backend",
+  "description": "Services",
+  "source": "@site/docs/features/backend.md",
+  "sourceDirName": "features",
+  "slug": "/features/backend",
+  "permalink": "/docs/features/backend",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/backend.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Workflow Automation",
+    "permalink": "/docs/features/workflow-automation"
+  },
+  "next": {
+    "title": "CI/CD Quality Checks",
+    "permalink": "/docs/features/ci-cd-quality-checks"
+  }
+}

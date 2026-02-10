@@ -1,0 +1,118 @@
+{
+  "/api-e8f": {
+    "__comp": "f0ad3fbb",
+    "__context": {
+      "plugin": "6ba57622"
+    },
+    "specProps": "66ead390",
+    "layoutProps": "70cfd553"
+  },
+  "/docs-fd5": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/docs-711": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
+  },
+  "/docs-7b1": {
+    "__comp": "a94703ab"
+  },
+  "/docs/api/anonymization-logs-691": {
+    "__comp": "17896441",
+    "content": "459dee5f"
+  },
+  "/docs/api/document-processing-a4d": {
+    "__comp": "17896441",
+    "content": "4e706fe7"
+  },
+  "/docs/api/document-reports-137": {
+    "__comp": "17896441",
+    "content": "79b5f7ee"
+  },
+  "/docs/api/openapi-39f": {
+    "__comp": "17896441",
+    "content": "4a042698"
+  },
+  "/docs/api/presidio-integration-d0a": {
+    "__comp": "17896441",
+    "content": "559dad81"
+  },
+  "/docs/features/backend-e52": {
+    "__comp": "17896441",
+    "content": "a86f9a33"
+  },
+  "/docs/features/batch-processing-a26": {
+    "__comp": "17896441",
+    "content": "bc828933"
+  },
+  "/docs/features/ci-cd-quality-checks-9d5": {
+    "__comp": "17896441",
+    "content": "68dfeccb"
+  },
+  "/docs/features/digital-signing-e78": {
+    "__comp": "17896441",
+    "content": "d11f9f94"
+  },
+  "/docs/features/document-classification-8cf": {
+    "__comp": "17896441",
+    "content": "8d26ca49"
+  },
+  "/docs/features/document-comparison-785": {
+    "__comp": "17896441",
+    "content": "6d1b0853"
+  },
+  "/docs/features/document-generation-c12": {
+    "__comp": "17896441",
+    "content": "e50539db"
+  },
+  "/docs/features/document-reporting-8d3": {
+    "__comp": "17896441",
+    "content": "af3ad8b4"
+  },
+  "/docs/features/document-validation-5d2": {
+    "__comp": "17896441",
+    "content": "8fff69e8"
+  },
+  "/docs/features/entity-management-abc": {
+    "__comp": "17896441",
+    "content": "b1a1e81b"
+  },
+  "/docs/features/external-integration-0ba": {
+    "__comp": "17896441",
+    "content": "80b16864"
+  },
+  "/docs/features/gdpr-anonymization-104": {
+    "__comp": "17896441",
+    "content": "e2cca898"
+  },
+  "/docs/features/reports-interface-cc4": {
+    "__comp": "17896441",
+    "content": "49b70c29"
+  },
+  "/docs/features/text-extraction-362": {
+    "__comp": "17896441",
+    "content": "f8c9e435"
+  },
+  "/docs/features/wcag-compliance-588": {
+    "__comp": "17896441",
+    "content": "84174f8a"
+  },
+  "/docs/features/workflow-automation-30b": {
+    "__comp": "17896441",
+    "content": "d9b6cd52"
+  },
+  "/docs/intro-61d": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/-2e1": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

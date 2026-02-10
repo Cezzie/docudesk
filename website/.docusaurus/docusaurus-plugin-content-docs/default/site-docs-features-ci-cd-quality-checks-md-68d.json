@@ -1,0 +1,24 @@
+{
+  "id": "features/ci-cd-quality-checks",
+  "title": "CI/CD Quality Checks",
+  "description": "Overview",
+  "source": "@site/docs/features/ci-cd-quality-checks.md",
+  "sourceDirName": "features",
+  "slug": "/features/ci-cd-quality-checks",
+  "permalink": "/docs/features/ci-cd-quality-checks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/ci-cd-quality-checks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "backend",
+    "permalink": "/docs/features/backend"
+  },
+  "next": {
+    "title": "Entity Management",
+    "permalink": "/docs/features/entity-management"
+  }
+}

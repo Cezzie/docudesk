@@ -1,0 +1,27 @@
+{
+  "id": "features/text-extraction",
+  "title": "Text Extraction",
+  "description": "DocuDesk provides powerful text extraction capabilities that allow you to extract and process text content from various document formats. This feature serves as the foundation for many other DocuDesk capabilities, including document analysis, reporting, and anonymization.",
+  "source": "@site/docs/features/text-extraction.md",
+  "sourceDirName": "features",
+  "slug": "/features/text-extraction",
+  "permalink": "/docs/features/text-extraction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/text-extraction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Document Classification",
+    "permalink": "/docs/features/document-classification"
+  },
+  "next": {
+    "title": "Document Reporting",
+    "permalink": "/docs/features/document-reporting"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "features/document-reporting",
+  "title": "Document Reporting",
+  "description": "DocuDesk's document reporting feature provides comprehensive analysis of documents to identify sensitive information and assess potential privacy risks. This feature integrates with Microsoft Presidio to detect and report on personally identifiable information (PII) and other sensitive data within your documents.",
+  "source": "@site/docs/features/document-reporting.md",
+  "sourceDirName": "features",
+  "slug": "/features/document-reporting",
+  "permalink": "/docs/features/document-reporting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/document-reporting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text Extraction",
+    "permalink": "/docs/features/text-extraction"
+  },
+  "next": {
+    "title": "Document Validation",
+    "permalink": "/docs/features/document-validation"
+  }
+}

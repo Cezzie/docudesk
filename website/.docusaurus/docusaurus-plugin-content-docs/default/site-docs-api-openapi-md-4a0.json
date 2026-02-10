@@ -1,0 +1,24 @@
+{
+  "id": "api/openapi",
+  "title": "API Documentation",
+  "description": "DocuDesk provides a RESTful API that allows you to interact with documents, folders, and tags programmatically. This page explains how to use the API documentation.",
+  "source": "@site/docs/api/openapi.md",
+  "sourceDirName": "api",
+  "slug": "/api/openapi",
+  "permalink": "/docs/api/openapi",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/api/openapi.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "API Documentation"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Document Processing",
+    "permalink": "/docs/api/document-processing"
+  }
+}

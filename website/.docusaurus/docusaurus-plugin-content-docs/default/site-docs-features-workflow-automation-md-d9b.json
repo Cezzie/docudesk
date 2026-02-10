@@ -1,0 +1,40 @@
+{
+  "id": "features/workflow-automation",
+  "title": "Workflow Automation",
+  "description": "Automate document workflows, compliance checking, and processing chains",
+  "source": "@site/docs/features/workflow-automation.md",
+  "sourceDirName": "features",
+  "slug": "/features/workflow-automation",
+  "permalink": "/docs/features/workflow-automation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/workflow-automation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "workflow-automation",
+    "title": "Workflow Automation",
+    "sidebar_label": "Workflow Automation",
+    "sidebar_position": 10,
+    "description": "Automate document workflows, compliance checking, and processing chains",
+    "keywords": [
+      "workflow",
+      "automation",
+      "process",
+      "routing",
+      "compliance",
+      "WCAG",
+      "GDPR"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reports Interface",
+    "permalink": "/docs/features/reports-interface"
+  },
+  "next": {
+    "title": "backend",
+    "permalink": "/docs/features/backend"
+  }
+}

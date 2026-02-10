@@ -1,0 +1,37 @@
+{
+  "id": "features/batch-processing",
+  "title": "Batch Processing",
+  "description": "Process multiple documents simultaneously with high performance",
+  "source": "@site/docs/features/batch-processing.md",
+  "sourceDirName": "features",
+  "slug": "/features/batch-processing",
+  "permalink": "/docs/features/batch-processing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/batch-processing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "batch-processing",
+    "title": "Batch Processing",
+    "sidebar_label": "Batch Processing",
+    "sidebar_position": 5,
+    "description": "Process multiple documents simultaneously with high performance",
+    "keywords": [
+      "batch",
+      "processing",
+      "performance",
+      "automation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WCAG Compliance",
+    "permalink": "/docs/features/wcag-compliance"
+  },
+  "next": {
+    "title": "External Integration",
+    "permalink": "/docs/features/external-integration"
+  }
+}

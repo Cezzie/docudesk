@@ -1,0 +1,37 @@
+{
+  "id": "features/document-validation",
+  "title": "Document Validation",
+  "description": "Automated quality control and validation of documents",
+  "source": "@site/docs/features/document-validation.md",
+  "sourceDirName": "features",
+  "slug": "/features/document-validation",
+  "permalink": "/docs/features/document-validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/features/document-validation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "document-validation",
+    "title": "Document Validation",
+    "sidebar_label": "Document Validation",
+    "sidebar_position": 9,
+    "description": "Automated quality control and validation of documents",
+    "keywords": [
+      "validation",
+      "quality control",
+      "compliance",
+      "verification"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Document Reporting",
+    "permalink": "/docs/features/document-reporting"
+  },
+  "next": {
+    "title": "Reports Interface",
+    "permalink": "/docs/features/reports-interface"
+  }
+}

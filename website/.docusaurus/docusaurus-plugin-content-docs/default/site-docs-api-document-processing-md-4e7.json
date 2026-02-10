@@ -1,0 +1,28 @@
+{
+  "id": "api/document-processing",
+  "title": "Document Processing",
+  "description": "DocuDesk provides powerful document processing capabilities that allow you to transform, analyze, and manage documents in various formats. This page explains how document processing works in DocuDesk.",
+  "source": "@site/docs/api/document-processing.md",
+  "sourceDirName": "api",
+  "slug": "/api/document-processing",
+  "permalink": "/docs/api/document-processing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/conductionnl/docudesk/tree/main/website/docs/api/document-processing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Document Processing"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Documentation",
+    "permalink": "/docs/api/openapi"
+  },
+  "next": {
+    "title": "Document Reports",
+    "permalink": "/docs/api/document-reports"
+  }
+}
